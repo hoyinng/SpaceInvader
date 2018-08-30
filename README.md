@@ -1,6 +1,5 @@
 # SpaceInvader
-
-Grade 11 final project
+This is a game i made during highschool
 
 ![alt text](https://github.com/hoyinng/SpaceInvader/blob/master/example.PNG)
 
