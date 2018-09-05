@@ -1,5 +1,5 @@
 # SpaceInvader
-This is a game i made during highschool
+This is a game I made during highschool
 
 ![alt text](https://github.com/hoyinng/SpaceInvader/blob/master/example.PNG)
 
